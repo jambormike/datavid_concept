@@ -1,0 +1,8 @@
+# Ignore audio files in the audio_records directory
+data/audio_records/*
+!data/audio_records/.gitkeep
+
+# Ignore Python bytecode directories
+__pycache__/
+
+*.pyc
