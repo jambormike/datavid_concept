@@ -1,0 +1,29 @@
+ Patient: (Name not specified)
+
+Age: Not specified
+
+Sex: Not specified
+
+Chief Complaint: Headaches and blurred vision
+
+History of Present Illness: The patient has been experiencing headaches and blurred vision for the past week. The headaches are persistent and have not been relieved by over-the-counter pain medication. The patient has also noticed some changes in their vision, including blurriness and occasional double vision.
+
+Past Medical History: No previous history of similar symptoms.
+
+Family History: No relevant family history.
+
+Social History: No relevant social history.
+
+Review of Systems: No other symptoms reported.
+
+Physical Examination: Unremarkable.
+
+Assessment: The patient presents with headaches and blurred vision that have persisted for a week, despite trying over-the-counter pain medication. Given the persistent nature of the symptoms and the patient's young age, it is important to rule out any potentially serious underlying causes. A thorough investigation is necessary to determine the cause of these symptoms.
+
+Plan:
+
+1. Order an MRI of the brain and orbit to evaluate for intracranial or orbital pathology.
+2. Perform a comprehensive eye examination to assess visual acuity, refraction, and fundoscopy.
+3. Consider referral to a neurologist or ophthalmologist for further evaluation and management.
+4. Provide the patient with a list of high-risk symptoms to monitor and instruct them to return to the clinic immediately if they experience any worsening of symptoms.
+5. Schedule follow-up appointment in 1-2 weeks to review results of investigations and reassess the patient's condition.
